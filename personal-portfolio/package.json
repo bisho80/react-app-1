@@ -2,7 +2,7 @@
   "name": "personal-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://bisho80github.io/react-app-1 ",
+  "homepage": "https://bisho80github.io/react-app-1",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
@@ -52,5 +52,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  
+    "dependencies": {
+      "-": "^0.0.1",
+      "save-dev": "^0.0.1-security"
+    },
+    "devDependencies": {
+      "gh-pages": "^6.1.1"
+    }
   }
-}
+  
+
+
+
